@@ -98,11 +98,7 @@ blood pressure, and more
     - **Description:** The aim of this data science project is to predict the price of used cars in major Indian metro cities.
     - **Technologies Used:** The notebooks uses Decision Tree Regressor and Random Forest Regressor.
     - **Results:** The random forest regressor gave 87.8% accuracy
-## License
-This project is licensed under the [MIT License](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
-## Contributing
-Contributions are welcome! If you would like to contribute to this repository, please follow the guidelines outlined in [CONTRIBUTING.md](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/CONTRIBUTING.md). Any improvements, bug fixes, or additional projects are greatly appreciated.
-## Feedback and Contact
-I welcome any feedback, suggestions, or questions you may have about the projects or the repository. Feel free to reach out to me via email at sukhmansinghbhogal@gmail.com
+
+
 
 Enjoy exploring my data science projects!
